@@ -1,24 +1,7 @@
-# README
+# DMM WEBCAMPコンテンツ【開発スキルアップ】
+DMM WEBCAMPの学習コンテンツ開発スキルアップの
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1.【Rails】RSpecを使ってテストを書いてみよう
+2.【Rails】RSpecを使ってRailsアプリケーションをテストしてみよう
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+の章です。
